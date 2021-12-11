@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "ps2_mouse.h": "c",
+        "type.h": "c",
+        "proto.h": "c",
+        "stdio.h": "c",
+        "const.h": "c",
+        "proc.h": "c",
+        "global.h": "c"
+    }
+}
